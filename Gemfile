@@ -19,6 +19,6 @@ group :development do
   gem 'roodi', '~> 5.0'
   gem 'rspec', '~> 3.4'
   gem 'rubocop', '~> 0.35'
-  gem 'simplecov', '~> 0.10'
+  gem 'simplecov', '~> 0.11'
   gem 'yard', '~> 0.8'
 end
